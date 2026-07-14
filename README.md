@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 
 # 💫 About Me:
-<br>🔭 I'm currently working on — Scribe, an AI-powered document chat app built with React, Node.js, and Groq/Llama 3.3<br>🤝 I'm looking to collaborate on — Full-stack web projects, React/Node.js apps, or anything that involves building something useful from scratch<br>🫱 I'm looking for help with — Landing my first Software Development internship and leveling up in DSA & system design<br>🌱 I'm currently learning — Docker, advanced React patterns, and sharpening Data Structures & Algorithms<br>💬 Ask me about — Building full-stack apps with the MERN stack, visualizing algorithms, or integrating AI APIs into web apps<br>⚡ Fun fact — I built an ML simulator that predicts Argentina winning the FIFA World Cup 2026 
+<br>🔭 I'm currently working on  Scribe, an AI-powered document chat app built with React, Node.js, and Groq/Llama 3.3<br>🤝 I'm looking to collaborate on  Full-stack web projects, React/Node.js apps, or anything that involves building something useful from scratch<br>🫱 I'm looking for help with  Landing my first Software Development internship and leveling up in DSA & system design<br>🌱 I'm currently learning Docker, advanced React patterns, and sharpening Data Structures & Algorithms<br>💬 Ask me about  Building full-stack apps with the MERN stack, visualizing algorithms, or integrating AI APIs into web apps<br>⚡ Fun fact I built an ML simulator that predicts Argentina winning the FIFA World Cup 2026 
 
 
 # 💻 Tech Stack:
