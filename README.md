@@ -103,44 +103,22 @@ Data Analytics
 
 ---
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshsingh-1275&hide_border=true&area=true&bg_color=ffffff&color=000000&line=000000&point=000000" />
-</p>
-
----
-
 ## A Little About Me
 
-* Building full-stack applications from scratch
-* Exploring AI engineering and developer tools
-* Working with databases and backend architecture
-* Exploring data analytics and visualization
-* Interested in understanding **why things work**, not just making them work
-* Always building something new
+When I'm not coding, I'm usually somewhere between **curiosity and obsession**.
+
+* I enjoy learning about **machines** — how they work, why they're designed the way they are, and the strange little details that make them possible.
+* I'm a big fan of **music**, especially exploring different genres and discovering sounds I've never heard before — from **synth-pop and progressive rock to jazz, classical, ambient, and everything in between**.
+* I have a soft spot for **black-and-white cinema** and films that leave you thinking about them long after they've ended.
+* I enjoy reading **literature and books in general**, especially when a writer can turn an ordinary thought into something that stays with you.
+* I'm fascinated by **metaphors, symbolism, and really good writing** — the kind of sentence that makes you stop for a second and read it again.
+* I like learning about things simply because they're interesting, even when they have nothing to do with what I'm currently working on.
+* And, naturally, I spend a lot of time building things, breaking them, figuring out why they broke, and building them again.
+
+> **Somewhere between machines and metaphors, that's where I like to be.**
+
 
 ---
-
-## Connect
-
-<p align="center">
-
-<a href="https://github.com/suryanshsingh-1275">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <b>Build. Learn. Ship. Repeat.</b>
-</p>
 
 # 📊 GitHub Stats:
 
