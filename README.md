@@ -105,18 +105,14 @@ Data Analytics
 
 ## A Little About Me
 
-When I'm not coding, I'm usually somewhere between **curiosity and obsession**.
-
-* I enjoy learning about **machines** — how they work, why they're designed the way they are, and the strange little details that make them possible.
-* I'm a big fan of **music**, especially exploring different genres and discovering sounds I've never heard before — from **synth-pop and progressive rock to jazz, classical, ambient, and everything in between**.
-* I have a soft spot for **black-and-white cinema** and films that leave you thinking about them long after they've ended.
-* I enjoy reading **literature and books in general**, especially when a writer can turn an ordinary thought into something that stays with you.
-* I'm fascinated by **metaphors, symbolism, and really good writing** — the kind of sentence that makes you stop for a second and read it again.
-* I like learning about things simply because they're interesting, even when they have nothing to do with what I'm currently working on.
-* And, naturally, I spend a lot of time building things, breaking them, figuring out why they broke, and building them again.
-
-> **Somewhere between machines and metaphors, that's where I like to be.**
-
+* I love learning about **machines**  how they work and why they're designed the way they are.
+* I love **music** and exploring different genres  especially synth-pop, progressive rock, jazz, classical, and ambient.
+* I love **black-and-white films** 
+* I enjoy reading **literature** and discovering really good writing.
+* I'm fascinated by **symbolism and metaphors**
+* I like learning about random things simply because I find them interesting.
+* I also really like **em dashes** — probably more than I should.
+* And of course, I love building things, breaking them, and figuring out why they broke.
 
 ---
 
